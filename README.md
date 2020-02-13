@@ -1,9 +1,11 @@
-go version
+go version go1.13.6 darwin/amd64
 
-```go version go1.13.6 darwin/amd64
-```
 
-go get github.com/cheekybits/genny
+Usage
+===================
+$ go get github.com/cheekybits/genny
+$ go install
+$ go gennerate && go run *.go
 
 
 TODO 
