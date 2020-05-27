@@ -8,7 +8,7 @@ import (
 	firebase "firebase.google.com/go"
 )
 
-const ProjectID = `talcjp-tokyo`
+const ProjectID = `xxxxx`
 
 // GetConnection is get firestore connection
 func GetConnection(ctx context.Context) (*firestore.Client, error) {
